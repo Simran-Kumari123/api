@@ -1,0 +1,185 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Classic Sketchbook Set",
+        "price": 109.95,
+        "description": "Premium hardbound sketchbook set ideal for charcoal, pencil, and ink. Great for artists and designers on the go.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/sketchbook%20with%20pencils",
+        "rating": { "rate": 4.5, "count": 120 }
+      },
+      {
+        "id": 2,
+        "title": "Premium Artist Marker Kit",
+        "price": 22.3,
+        "description": "Dual-tip alcohol markers with a wide color range. Comes in a durable case for students, illustrators, and professionals.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/markers%20in%20a%20wooden%20box",
+        "rating": { "rate": 4.1, "count": 259 }
+      },
+      {
+        "id": 3,
+        "title": "Watercolor Essentials Set",
+        "price": 55.99,
+        "description": "High-quality watercolor paint tubes, brushes, and palette set perfect for creating vivid and expressive paintings.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/watercolor%20set%20with%20brushes",
+        "rating": { "rate": 4.7, "count": 500 }
+      },
+      {
+        "id": 4,
+        "title": "Acrylic Paint & Brush Combo",
+        "price": 15.99,
+        "description": "Rich pigment acrylic paints paired with fine-tip brushes. Ideal for canvas art, DIY projects, and school crafts.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/acrylic%20paint%20set%20on%20table",
+        "rating": { "rate": 4.2, "count": 430 }
+      },
+      {
+        "id": 5,
+        "title": "Luxury Pen & Journal Gift Set",
+        "price": 695,
+        "description": "Elegant leather-bound journal paired with a luxury fountain pen. Perfect gift for writers, journaling, or note-taking.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/fountain%20pen%20with%20journal",
+        "rating": { "rate": 4.6, "count": 400 }
+      },
+      {
+        "id": 6,
+        "title": "All-in-One Stationery Organizer",
+        "price": 168,
+        "description": "A compact organizer featuring sticky notes, pens, highlighters, and memo pads. Ideal for office, home, or school.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/stationery%20kit%20with%20sticky%20notes",
+        "rating": { "rate": 4.4, "count": 320 }
+      },
+      {
+        "id": 7,
+        "title": "Calligraphy Starter Pack",
+        "price": 89.99,
+        "description": "A complete kit for beginners with calligraphy pens, ink cartridges, and instructional guides.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/calligraphy%20pen%20set",
+        "rating": { "rate": 4.3, "count": 150 }
+      },
+      {
+        "id": 8,
+        "title": "Gel Pen Rainbow Set",
+        "price": 19.99,
+        "description": "40 vibrant gel pens in assorted colors, perfect for journals, scrapbooks, and detailed artwork.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/rainbow%20gel%20pen%20set",
+        "rating": { "rate": 4.8, "count": 210 }
+      },
+      {
+        "id": 9,
+        "title": "Drawing Pencil Kit",
+        "price": 13.49,
+        "description": "Graphite pencils from 6B to 6H with blending stumps, erasers, and sharpener in a sleek tin case.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/pencil%20drawing%20kit%20in%20tin%20box",
+        "rating": { "rate": 4.6, "count": 390 }
+      },
+      {
+        "id": 10,
+        "title": "Craft Scissors & Washi Tape Combo",
+        "price": 24.5,
+        "description": "Decorative scissors and assorted washi tapes for journaling, scrapbooking, and paper crafts.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/washi%20tape%20and%20scissors%20combo",
+        "rating": { "rate": 4.4, "count": 310 }
+      },
+      {
+        "id": 11,
+        "title": "Mini Canvas & Easel Set",
+        "price": 12.0,
+        "description": "Pack of 5 mini canvases with wooden easels for small art displays, painting, or party crafts.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/mini%20canvas%20with%20easel",
+        "rating": { "rate": 4.2, "count": 290 }
+      },
+      {
+        "id": 12,
+        "title": "Notebook Trio with Art Covers",
+        "price": 18.25,
+        "description": "Set of 3 softcover notebooks with beautiful abstract art covers and premium ruled paper.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/artistic%20notebook%20set",
+        "rating": { "rate": 4.3, "count": 205 }
+      },
+      {
+        "id": 13,
+        "title": "Portable Art Supply Roll",
+        "price": 27.75,
+        "description": "Canvas roll to carry pencils, brushes, and pens. Compact and perfect for sketching outdoors.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/canvas%20art%20supply%20roll",
+        "rating": { "rate": 4.6, "count": 260 }
+      },
+      {
+        "id": 14,
+        "title": "Soft Pastel Chalk Set",
+        "price": 35.6,
+        "description": "36 color soft pastel chalks with high pigment for vibrant blends on textured surfaces.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/pastel%20chalk%20set%20for%20art",
+        "rating": { "rate": 4.5, "count": 330 }
+      },
+      {
+        "id": 15,
+        "title": "Creative Stencil Pack",
+        "price": 16.9,
+        "description": "Over 100 reusable stencils including letters, shapes, and patterns for art and journaling.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/art%20stencil%20set",
+        "rating": { "rate": 4.1, "count": 175 }
+      },
+      {
+        "id": 16,
+        "title": "Artist’s Light Tracing Pad",
+        "price": 42.99,
+        "description": "Ultra-slim LED light pad for tracing sketches, calligraphy, and tattoo designs.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/light%20pad%20for%20tracing",
+        "rating": { "rate": 4.9, "count": 120 }
+      },
+      {
+        "id": 17,
+        "title": "Decorative Sticker Mega Pack",
+        "price": 9.89,
+        "description": "Over 500 stickers for planners, bullet journals, and crafts. Includes vintage, cute, and floral themes.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/sticker%20pack%20for%20journals",
+        "rating": { "rate": 4.7, "count": 510 }
+      },
+      {
+        "id": 18,
+        "title": "Fine Liner Ink Pens",
+        "price": 14.59,
+        "description": "Pack of 12 fine liner pens with archival ink. Ideal for technical drawings, notes, and outlines.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/fine%20liner%20drawing%20pens",
+        "rating": { "rate": 4.8, "count": 280 }
+      },
+      {
+        "id": 19,
+        "title": "Magnetic Whiteboard with Markers",
+        "price": 39.95,
+        "description": "Portable dry erase board with colorful markers and magnets. Great for dorm rooms and home offices.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/magnetic%20whiteboard%20set",
+        "rating": { "rate": 4.4, "count": 198 }
+      },
+      {
+        "id": 20,
+        "title": "Glue Gun Craft Pack",
+        "price": 23.45,
+        "description": "Mini glue gun with 30 glue sticks. Ideal for crafts, DIY projects, and decorations.",
+        "category": "art & stationery",
+        "image": "https://image.pollinations.ai/prompt/glue%20gun%20craft%20kit",
+        "rating": { "rate": 4.5, "count": 360 }
+      }
+    ]
+  }
+  
